@@ -1,0 +1,11 @@
+creative_combinations/test11_dfa-tag_p.py;Expected: True;Actual: False;Result: Fail;{"reason": "that nectar allocation already exists", "result": false, "run time seconds": "0.8635"}
+creative_combinations/test10_celtra-tag_p.py;Expected: True;Actual: False;Result: Fail;{"reason": "that nectar allocation already exists", "result": false, "run time seconds": "0.8896"}
+creative_combinations/test00_no-cr_f.py;Expected: False;Actual: False;Result: Pass;{"reason": "that nectar allocation already exists", "result": false, "run time seconds": "0.0180"}
+creative_combinations/test03_three-cr_p.py;Expected: True;Actual: False;Result: Fail;{"reason": "that nectar allocation already exists", "result": false, "run time seconds": "3.9852"}
+creative_combinations/test02_two-cr_p.py;Expected: True;Actual: False;Result: Fail;{"reason": "that nectar allocation already exists", "result": false, "run time seconds": "3.2287"}
+creative_combinations/test01_one-cr_p.py;Expected: True;Actual: False;Result: Fail;{"reason": "that nectar allocation already exists", "result": false, "run time seconds": "0.7175"}
+creative_combinations/test12_eyereturn-js-tag_p.py;Expected: True;Actual: True;Result: Pass;{"reason": {"1": {"SCRID": 10141, "NALLOC": 39012, "CID": 1140, "LINE": 1, "FLIGHT": 1, "NCRID": 39012}}, "result": true, "run time seconds": "2.7502"}
+creative_combinations/test05_five-cr_p.py;Expected: True;Actual: False;Result: Fail;{"reason": "that nectar allocation already exists", "result": false, "run time seconds": "7.9628"}
+creative_combinations/test14_hard-no-imp_p.py;Expected: True;Actual: False;Result: Fail;{"reason": "that nectar allocation already exists", "result": false, "run time seconds": "0.6969"}
+creative_combinations/test13_hard-w-imp_p.py;Expected: True;Actual: False;Result: Fail;{"reason": "that nectar allocation already exists", "result": false, "run time seconds": "0.7316"}
+creative_combinations/test06_forty-cr_p.py;Expected: True;

@@ -1,0 +1,4 @@
+Test #1;Expected: pass;Actual: pass;Result: pass;b'1000\n'
+Test #2;Expected: pass;Actual: pass;Result: pass;b'Hello World\n'
+Test #3;Expected: fail;Actual: pass;Result: fail;b'Fuck\n'
+Hi mom!;Expected: pass;Actual: pass;Result: pass;b'Comma, comma, semicolon\n'
